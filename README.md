@@ -1,2 +1,2 @@
 # algorithms
-knu comp319, algorithms assignments
+knu cse comp319, algorithms assignments
